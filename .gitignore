@@ -1,5 +1,10 @@
-__pycache__/
-build/
-dist/
-*.spec
+# Nuitka build directories
+*.build/
+*.dist/
+*.onefile-build/
+
+# Local configuration files
 api_key.txt
+
+# Python cache
+__pycache__/
