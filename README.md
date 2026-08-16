@@ -34,4 +34,4 @@ cd YashvirGaming-PrivateAI
 pip install -r requirements.txt
 ```
 ## 💾 Quick Download (Windows)
-Don't want to run python manually? Download the compiled standalone **.exe** from our [Releases](https://github.com) page!
+Don't want to run python manually? Download the compiled standalone **.exe** from our [Releases](https://github.com/keshavgaming230/YashvirGaming-PrivateAI/releases/tag/1.0.4)
